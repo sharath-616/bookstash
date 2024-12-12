@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529605971628",
+    "project_id": "book-stash-2a52d",
+    "storage_bucket": "book-stash-2a52d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529605971628:android:2c332488e8a072061e5909",
+        "android_client_info": {
+          "package_name": "com.example.bookstash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4GBk9h6J_K1gFgn8AQKyT48GL9rWMpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
